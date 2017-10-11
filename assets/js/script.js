@@ -15,8 +15,13 @@ $(() => {
     $("#newItem").keypress(function(e) {
         if(e.which === 13) {
             const todoText = $(this).val();
-            $("ul").append('<li class="todo"><span class="delete">X</span> ' + todoText + '</li>');
+            $(this).val("");
+            $("ul").append('<li class="todo"><span class="delete"><i class="fa fa-trash-o" aria-hidden="true"></i></span> ' + todoText + '</li>');
         }
-    })
+    });
+
+    $(".fa-plus-square-o").click(function() {
+        $("#newItem").fadeToggle();
+    });
     
 });
