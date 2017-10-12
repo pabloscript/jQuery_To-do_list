@@ -32,4 +32,5 @@ Directories structure:
 3. index.html
 
 =====================
+
 Author: Pawel Kozicki
