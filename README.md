@@ -13,9 +13,11 @@ Directories structure:
 
 Functionalities to be added:
 1. items editing
-2. storing items in JSON file with Ajax
-3. re-write CSS to SCSS, use flexbox
-4. enhance styling
+2. clear all completed items
+3. storing items in JSON file with Ajax
+4. re-write CSS to SCSS, use flexbox
+5. enhance styling
+6. fix viewing for items longer than the item field
 
 
 Author: Pawel Kozicki
