@@ -22,7 +22,6 @@ Functionalities to be added:
 Other enhancements to be done:
 1. re-write CSS to SCSS
 2. enhance styling
-3. fix viewing for items longer than the item field
 
 
 Directories structure:
