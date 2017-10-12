@@ -3,7 +3,7 @@
 
 This repo includes the code of a simple to-do list app created with jQuery.
 
-=================
+=====================
 
 Current functionalities:
 1. adding new items
@@ -23,7 +23,7 @@ Other enhancements to be done:
 1. re-write CSS to SCSS
 2. enhance styling
 
-=================
+=====================
 
 Directories structure:
 
@@ -31,5 +31,5 @@ Directories structure:
 2. -assets/js/ (functionalities, jQuery library)
 3. index.html
 
-
+=====================
 Author: Pawel Kozicki
