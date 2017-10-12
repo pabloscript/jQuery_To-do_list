@@ -7,14 +7,15 @@ body {
 }
 
 div#container {
-    width: 360px;
+    min-width: 300px;
+    max-width: 500px;
     margin: 100px auto;
     background: #f7f7f7;
     box-shadow: 0 0 3px rgba(0,0,0, 0.1);
 }
 
 h1 {
-    background: #2980b9;
+    background: #616161;
     color: white;
     margin: 0;
     padding: 10px 20px;
@@ -34,7 +35,7 @@ i.fa-plus-square-o:hover {
 input#newItem {
     box-sizing: border-box;
     font-size: 18px;
-    color: #2980b9;
+    color: #616161;
     background: #f7f7f7;
     width: 100%;
     padding: 13px 13px 13px 20px;
@@ -43,7 +44,7 @@ input#newItem {
 
 input#newItem:focus {
     background: #fff;
-    border: 2px solid #2980b9;
+    border: 2px solid #616161;
     outline: none;
 }
 
