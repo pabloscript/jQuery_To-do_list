@@ -1,9 +1,9 @@
-jQuery To-do list
-=================
+# jQuery To-do list
 
 
 This repo includes the code of a simple to-do list app created with jQuery.
 
+=================
 
 Current functionalities:
 1. adding new items
@@ -23,6 +23,7 @@ Other enhancements to be done:
 1. re-write CSS to SCSS
 2. enhance styling
 
+=================
 
 Directories structure:
 
