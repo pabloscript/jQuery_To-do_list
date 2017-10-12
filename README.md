@@ -2,22 +2,34 @@ jQuery To-do list
 =================
 
 
-This repo includes the code of a simple to-do list app created within a few hours with jQuery.
+This repo includes the code of a simple to-do list app created with jQuery.
+
+
+Current functionalities:
+1. adding new items
+2. marking completed items
+3. hiding/showing add-new-item field
+4. deleting items
+5. clearing all completed items with one button
+
+
+Functionalities to be added:
+1. items editing
+2. check/uncheck all items
+3. storing items in JSON file with Ajax
+
+
+Other enhancements to be done:
+1. re-write CSS to SCSS
+2. enhance styling
+3. fix viewing for items longer than the item field
+
 
 Directories structure:
 
 1. -assets/css/ (styling)
 2. -assets/js/ (functionalities, jQuery library)
 3. index.html
-
-
-Functionalities to be added:
-1. items editing
-2. clear all completed items
-3. storing items in JSON file with Ajax
-4. re-write CSS to SCSS, use flexbox
-5. enhance styling
-6. fix viewing for items longer than the item field
 
 
 Author: Pawel Kozicki
