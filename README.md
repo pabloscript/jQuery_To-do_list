@@ -7,16 +7,16 @@ This repo includes the code of a simple to-do list app created with jQuery.
 
 Current functionalities:
 1. adding new items
-2. marking completed items
-3. hiding/showing add-new-item field
-4. deleting items
-5. clearing all completed items with one button
+2. editing items
+3. marking completed items
+4. hiding/showing add-new-item field
+5. deleting items
+6. clearing all completed items with one button
 
 
 Functionalities to be added:
-1. items editing
-2. check/uncheck all items
-3. storing items in JSON file with Ajax
+1. check/uncheck all items
+2. storing items in JSON file with Ajax
 
 
 Other enhancements to be done:
