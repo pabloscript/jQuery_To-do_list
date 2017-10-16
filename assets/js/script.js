@@ -29,16 +29,15 @@ $(() => {
             $(this).val("");
             $("ul").append(
                 '<li class="todo" contenteditable="true"><span class="delete"><i class="fa fa-trash-o" aria-hidden="true"></i></span> ' + todoText + '<i class="checkbox fa fa-square-o" aria-hidden="true"></li>');
-        }
-        e.stopPropagation();
+        }    
     });
 
     // Show/hide adding new item field
     $(".show-field").click(function() {
         let $this = $(this);
         $("#newItem").fadeToggle(500, function() {
-            $this.toggleClass("fa-minus-square-o fa-plus-square-o");
-        });        
+            $this.toggleClass("fa-caret-up fa-caret-down");
+        });
     });
     
 });
